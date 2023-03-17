@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\bin\Debug\atividade3-Algoritmos.exe.config
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\bin\Debug\atividade3-Algoritmos.exe
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\bin\Debug\atividade3-Algoritmos.pdb
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\obj\Debug\atividade3-Algoritmos.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\obj\Debug\atividade3-Algoritmos.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\obj\Debug\atividade3-Algoritmos.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\obj\Debug\atividade3-Algoritmos.exe
+H:\Visual Studio 2022\Projects\atividade3-Algoritmos\atividade3-Algoritmos\obj\Debug\atividade3-Algoritmos.pdb
