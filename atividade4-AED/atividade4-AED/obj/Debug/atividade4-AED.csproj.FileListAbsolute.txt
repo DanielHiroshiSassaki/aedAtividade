@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\bin\Debug\atividade4-AED.exe.config
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\bin\Debug\atividade4-AED.exe
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\bin\Debug\atividade4-AED.pdb
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\obj\Debug\atividade4-AED.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\obj\Debug\atividade4-AED.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\obj\Debug\atividade4-AED.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\obj\Debug\atividade4-AED.exe
+H:\Visual Studio 2022\Projects\atividade4-AED\atividade4-AED\obj\Debug\atividade4-AED.pdb
